@@ -18,6 +18,42 @@ Salam!
 
 <img src="pictures/wslp07.png" width="800">
 
+```
+echo "aptitude
+biber
+build-essential
+fcitx
+fcitx-pinyin
+fonts-hack-otf
+fonts-hack-ttf
+fonts-hack-web
+fonts-noto
+fonts-noto-cjk
+fonts-noto-hinted
+fonts-noto-mono
+fonts-noto-unhinted
+gawk
+git
+gnome-terminal
+gnupg
+groff
+guake
+latexmk
+ntfs-3g
+perl-doc
+rsync
+texlive-fonts-recommended
+texlive-latex-base
+texlive-latex-extra
+texlive-latex-recommended
+usbutils
+vim
+wget
+whiptail
+xfce4
+xfce4-terminal
+xzdec"
+```
 
 <!---
 https://docs.microsoft.com/en-us/windows/wsl/install-win10

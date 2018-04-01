@@ -6,6 +6,19 @@ Salam!
 
 <img src="pictures/wslp01.png" width="800">
 
+<img src="pictures/wslp02.png" width="800">
+
+<img src="pictures/wslp03.png" width="800">
+
+<img src="pictures/wslp04.png" width="800">
+
+<img src="pictures/wslp05.png" width="800">
+
+<img src="pictures/wslp06.png" width="800">
+
+<img src="pictures/wslp07.png" width="800">
+
+
 <!---
 https://docs.microsoft.com/en-us/windows/wsl/install-win10
 -->

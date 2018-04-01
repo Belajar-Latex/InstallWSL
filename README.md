@@ -58,10 +58,11 @@ xzdec
 ```
 
 ```
-echo `cat "
-a b
-c d
-"`
+apt-get install "\
+p1
+p3
+p2
+"
 ```
 
 <!---

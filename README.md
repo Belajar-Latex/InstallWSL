@@ -18,8 +18,8 @@ Salam!
 
 <img src="pictures/wslp07.png" width="800">
 
-```
-apt-get install "
+```BASH
+DEBPKG="
 aptitude
 biber
 build-essential
@@ -57,12 +57,8 @@ xzdec
 "
 ```
 
-```
-apt-get install "\
-p1
-p3
-p2
-"
+```BASH
+apt-get install $DEBPKG
 ```
 
 <!---

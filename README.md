@@ -58,10 +58,10 @@ xzdec
 ```
 
 ```
-echo "
+echo `cat "
 a b
 c d
-"
+"`
 ```
 
 <!---

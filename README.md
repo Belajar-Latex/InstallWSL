@@ -19,7 +19,8 @@ Salam!
 <img src="pictures/wslp07.png" width="800">
 
 ```
-echo "aptitude
+apt-get install "
+aptitude
 biber
 build-essential
 fcitx
@@ -52,7 +53,8 @@ wget
 whiptail
 xfce4
 xfce4-terminal
-xzdec"
+xzdec
+"
 ```
 
 <!---

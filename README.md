@@ -46,10 +46,16 @@ bash
 ```
 Lalukan update
 
-```
+```bash
 sudo su -
+```
+
+(menjadi superuser)
+
+```bash
 apt-get update
 apt-get dist-upgrade
+
 ```
 
 <img src="pictures/wsl09.png"  width="800">

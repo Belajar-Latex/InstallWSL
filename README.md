@@ -20,7 +20,7 @@ Selanjutnya, silakan restart komputer.
 Jika pertama kali, seharusnya belum ada "bash" dalam sistem. Jadi -- jaga-jaga -- silakan test
 apakah sudah terdapat "bash" (yang seharusnya tidak).
 
-<img src="pictures/wsl03.png"  width="800">
+<img src="pictures/wsl06.png"  width="800">
 
 Melalui Microsoft Store, silakan INSTALL distribusi "kesayangan" bersama, yaitu UBUNTU.
 
@@ -29,8 +29,6 @@ Melalui Microsoft Store, silakan INSTALL distribusi "kesayangan" bersama, yaitu 
 Setelah install, lalu LAUNCH.
 
 <img src="pictures/wsl05.png"  width="800">
-
-<img src="pictures/wsl06.png"  width="800">
 
 <img src="pictures/wsl07.png"  width="800">
 

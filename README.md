@@ -58,8 +58,6 @@ apt-get dist-upgrade
 
 ```
 
-<img src="pictures/wsl09.png"  width="800">
-
 <img src="pictures/wsl10.png"  width="800">
 
 <img src="pictures/wsl11.png"  width="800">

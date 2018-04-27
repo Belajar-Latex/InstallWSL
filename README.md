@@ -30,6 +30,8 @@ Setelah install, lalu LAUNCH.
 
 <img src="pictures/wsl05.png"  width="800">
 
+<img src="pictures/wslp01.png" width="800">
+
 Tunggu beberapa menit...
 
 <img src="pictures/wsl07.png"  width="800">
@@ -64,8 +66,6 @@ apt-get autoremove
 OK di-install.
 
 <img src="pictures/wsl11.png"  width="800">
-
-<img src="pictures/wslp01.png" width="800">
 
 <img src="pictures/wslp02.png" width="800">
 

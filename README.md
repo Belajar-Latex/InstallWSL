@@ -7,6 +7,10 @@
 * Penginstallan WSL (Windows Subsystem For L*) memerlukan data Internet beberapa ratus Mega Bytes!
   Jangan dilakukan jika memiliki kuota data Internet terbatas!
 
+* Lakukan penginstallan hingga tuntas! 
+  Pembatalan **INSTALL** ditengah jalan dapat berakibat masalah pada penginstallan berikutnya, 
+  karena sisa-sisa penginstallan sebelumnya!
+
 * WSL hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
 
 Pengaktifan WSL dilakukan melalui PowerShell (admin) dengan mengetikkan:

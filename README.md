@@ -2,7 +2,7 @@
 
 <img src="pictures/aen.jpg" width="150">
 
-AWAS!
+**AWAS!**
 
 * Penginstallan WSL (Windows Subsystem For L*) memerlukan data Internet beberapa ratus Mega Bytes!
   Jangan dilakukan jika memiliki kuota data Internet terbatas!

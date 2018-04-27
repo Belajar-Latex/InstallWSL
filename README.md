@@ -18,7 +18,7 @@ Selanjutnya, silakan restart komputer.
 <img src="pictures/wsl02.png"  width="800">
 
 Jika pertama kali, seharusnya belum ada "bash" dalam sistem.
-Jadi -- jaga-jaga -- silakan test apakah sudah terdapat "bash" (yang seharusnya tidak).
+Untuk -- jaga-jaga -- silakan test apakah sudah terdapat "bash" (yang seharusnya tidak).
 
 <img src="pictures/wsl06.png"  width="800">
 

@@ -43,7 +43,7 @@ Tunggu beberapa menit...
 Setelah sukses menginstall, setup "akun" dan "password" sesuai dengan keyakinan dan kepercayaan masing-masing.
 Contohnya, di sini akan menggunakan akun bernama "dummy".
 
-<img src="pictures/wsl08.png"  width="800">
+<img src="pictures/wslp02.png" width="800">
 
 Melalui PowerShell (non admin), silakan masuk ke bash.
 
@@ -70,8 +70,6 @@ apt-get autoremove
 OK di-install.
 
 <img src="pictures/wsl11.png"  width="800">
-
-<img src="pictures/wslp02.png" width="800">
 
 <img src="pictures/wslp03.png" width="800">
 

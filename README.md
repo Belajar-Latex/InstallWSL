@@ -22,6 +22,8 @@ apakah sudah terdapat "bash" (yang seharusnya tidak).
 
 <img src="pictures/wsl03.png"  width="800">
 
+Melalui Microsoft Store, silakan INSTALL distribusi "kesayangan" bersama, yaitu UBUNTU.
+
 <img src="pictures/wsl04.png"  width="800">
 
 <img src="pictures/wsl05.png"  width="800">

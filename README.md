@@ -2,9 +2,13 @@
 
 <img src="pictures/aen.jpg" width="150">
 
-Salam!
+AWAS!
 
-WSL (Windows Subsystem For L*) hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
+* Penginstallan WSL (Windows Subsystem For L*) memerlukan data Internet beberapa ratus Mega Bytes!
+  Jangan dilakukan jika memiliki kuota data Internet terbatas!
+
+* WSL hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
+
 Pengaktifan WSL dilakukan melalui PowerShell (admin) dengan mengetikkan:
 
 ```PS
@@ -26,11 +30,11 @@ Melalui Microsoft Store, silakan INSTALL distribusi "kesayangan" bersama, yaitu 
 
 <img src="pictures/wsl04.png"  width="800">
 
+<img src="pictures/wslp01.png" width="800">
+
 Setelah install, lalu LAUNCH.
 
 <img src="pictures/wsl05.png"  width="800">
-
-<img src="pictures/wslp01.png" width="800">
 
 Tunggu beberapa menit...
 

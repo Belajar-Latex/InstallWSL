@@ -53,7 +53,9 @@ Contohnya, di sini akan menggunakan akun bernama "dummy".
 
 <img src="pictures/wslp02.png" width="800">
 
-Untuk selanjutnya, UBUNTU siap untuk digunakan melalui PowerShell (non admin) dengan mengetikkan:
+UBUNTU siap untuk digunakan.
+
+Melalui PowerShell (non admin) ketikkan:
 
 ```PS
 bash

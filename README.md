@@ -30,7 +30,7 @@ Untuk -- jaga-jaga -- silakan test apakah sudah terdapat "bash" (yang seharusnya
 
 <img src="pictures/wsl06.png"  width="800">
 
-Melalui Microsoft Store, silakan INSTALL distribusi "kesayangan" yaitu **UBUNTU** (sekitar 200MB).
+Melalui Microsoft Store, silakan **INSTALL APPS** yaitu **UBUNTU** (sekitar 200MB).
 
 <img src="pictures/wsl04.png"  width="800">
 

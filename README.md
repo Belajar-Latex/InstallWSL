@@ -44,6 +44,13 @@ Melalui PowerShell (non admin), silakan masuk ke bash.
 ```PS
 bash
 ```
+Lalukan update
+
+```
+sudo su -
+apt-get update
+apt-get dist-upgrade
+```
 
 <img src="pictures/wsl09.png"  width="800">
 

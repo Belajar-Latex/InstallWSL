@@ -49,12 +49,13 @@ Contohnya, di sini akan menggunakan akun bernama "dummy".
 
 <img src="pictures/wslp02.png" width="800">
 
-Melalui PowerShell (non admin), silakan masuk ke bash.
+Untuk selanjutnya, UBUNTU siap untuk digunakan melalui PowerShell (non admin) dengan mengetikkan:
 
 ```PS
 bash
 ```
-Lalukan update
+
+Langkah pertama ialah meng-update UBUNTU dengan cara:
 
 ```bash
 sudo su -

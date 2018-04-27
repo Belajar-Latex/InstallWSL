@@ -94,6 +94,10 @@ OK di-install.
 
 <img src="pictures/wslp07.png" width="800">
 
+<img src="pictures/wslp08.png" width="800">
+
+<img src="pictures/wslp08.png" width="800">
+
 ```BASH
 DEBPKG="
 aptitude

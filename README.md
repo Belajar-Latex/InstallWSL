@@ -40,8 +40,8 @@ Tunggu beberapa menit...
 
 <img src="pictures/wsl07.png"  width="800">
 
-Setup "akun" dan "password" sesuai dengan keyakinan dan kepercayaan masing-masing.
-Untuk selanjutnya, di sini akan digunakan akun "dummy".
+Setelah sukses menginstall, setup "akun" dan "password" sesuai dengan keyakinan dan kepercayaan masing-masing.
+Contohnya, di sini akan menggunakan akun bernama "dummy".
 
 <img src="pictures/wsl08.png"  width="800">
 

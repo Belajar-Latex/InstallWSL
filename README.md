@@ -26,6 +26,8 @@ Melalui Microsoft Store, silakan INSTALL distribusi "kesayangan" bersama, yaitu 
 
 <img src="pictures/wsl04.png"  width="800">
 
+Setelah install, lalu LAUNCH.
+
 <img src="pictures/wsl05.png"  width="800">
 
 <img src="pictures/wsl06.png"  width="800">

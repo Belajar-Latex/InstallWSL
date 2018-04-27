@@ -55,10 +55,13 @@ sudo su -
 ```bash
 apt-get update
 apt-get dist-upgrade
+apt-get autoremove
 
 ```
 
 <img src="pictures/wsl10.png"  width="800">
+
+OK di-install.
 
 <img src="pictures/wsl11.png"  width="800">
 

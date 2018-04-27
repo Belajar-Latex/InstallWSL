@@ -35,7 +35,7 @@ Tunggu beberapa menit...
 <img src="pictures/wsl07.png"  width="800">
 
 Setup "akun" dan "password" sesuai dengan keyakinan dan kepercayaan masing-masing.
-Di sini akan digunakan akun "dummy".
+Untuk selanjutnya, di sini akan digunakan akun "dummy".
 
 <img src="pictures/wsl08.png"  width="800">
 

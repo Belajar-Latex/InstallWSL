@@ -7,6 +7,10 @@
 * Penginstallan WSL (Windows Subsystem For L*) memerlukan data Internet beberapa ratus Mega Bytes!
   Jangan dilakukan jika memiliki kuota data Internet terbatas!
 
+* Jika anda **BUKAN** pakar Windows 10; sebaiknya membuat USER baru di Windows 10 untuk mencoba WSL.
+  Jika terjadi hal yang tidak diinginkan, anda tinggal menghapus **USER** Windows tersebut, lalu
+  mencoba lagi dengan **USER** baru.
+
 * Lakukan penginstallan hingga tuntas! 
   Pembatalan **INSTALL** ditengah jalan dapat berakibat masalah pada penginstallan berikutnya, 
   karena sisa-sisa penginstallan sebelumnya!

@@ -55,7 +55,7 @@ Contohnya, di sini akan menggunakan akun bernama "dummy".
 
 - - -
 
-UBUNTU siap untuk digunakan.
+UBUNTU siap untuk digunakan!
 
 Melalui PowerShell (non admin) ketikkan:
 
@@ -91,10 +91,6 @@ OK di-install.
 <img src="pictures/wslp05.png" width="800">
 
 <img src="pictures/wslp06.png" width="800">
-
-<img src="pictures/wslp07.png" width="800">
-
-<img src="pictures/wslp07.png" width="800">
 
 <img src="pictures/wslp07.png" width="800">
 

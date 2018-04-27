@@ -13,6 +13,8 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 
 <img src="pictures/wsl01.png"  width="800">
 
+Selanjutnya, silakan restart komputer.
+
 <img src="pictures/wsl02.png"  width="800">
 
 <img src="pictures/wsl03.png"  width="800">

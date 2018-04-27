@@ -30,9 +30,20 @@ Setelah install, lalu LAUNCH.
 
 <img src="pictures/wsl05.png"  width="800">
 
+Tunggu beberapa menit...
+
 <img src="pictures/wsl07.png"  width="800">
 
+Setup "akun" dan "password" sesuai dengan keyakinan dan kepercayaan masing-masing.
+Di sini akan digunakan akun "dummy".
+
 <img src="pictures/wsl08.png"  width="800">
+
+Melalui PowerShell (non admin), silakan masuk ke bash.
+
+```PS
+bash
+```
 
 <img src="pictures/wsl09.png"  width="800">
 

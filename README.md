@@ -53,6 +53,8 @@ Contohnya, di sini akan menggunakan akun bernama "dummy".
 
 <img src="pictures/wslp02.png" width="800">
 
+- - -
+
 UBUNTU siap untuk digunakan.
 
 Melalui PowerShell (non admin) ketikkan:

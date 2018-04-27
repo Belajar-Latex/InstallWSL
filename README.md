@@ -4,7 +4,7 @@
 
 Salam!
 
-WSL hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
+WSL (Windows Subsystem For L*) hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
 Melalui PowerShell (admin), aktifkan WSL dengan mengetikkan:
 
 ```PS
@@ -17,8 +17,8 @@ Selanjutnya, silakan restart komputer.
 
 <img src="pictures/wsl02.png"  width="800">
 
-Jika pertama kali, seharusnya belum ada "bash" dalam sistem. Jadi -- jaga-jaga -- silakan test
-apakah sudah terdapat "bash" (yang seharusnya tidak).
+Jika pertama kali, seharusnya belum ada "bash" dalam sistem.
+Jadi -- jaga-jaga -- silakan test apakah sudah terdapat "bash" (yang seharusnya tidak).
 
 <img src="pictures/wsl06.png"  width="800">
 

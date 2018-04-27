@@ -4,6 +4,10 @@
 
 Salam!
 
+```BASH
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
+
 <img src="pictures/wsl01.png"  width="800">
 
 <img src="pictures/wsl02.png"  width="800">

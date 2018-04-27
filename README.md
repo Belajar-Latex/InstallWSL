@@ -5,7 +5,7 @@
 Salam!
 
 WSL hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
-Melalui PowerShell (administratur), aktifkan WSL dengan mengetikkan:
+Melalui PowerShell (admin), aktifkan WSL dengan mengetikkan:
 
 ```PS
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux

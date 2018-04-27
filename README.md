@@ -4,7 +4,10 @@
 
 Salam!
 
-```BASH
+WSL hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
+Melalui PowerShell (administratur), aktifkan WSL dengan mengetikkan:
+
+```PS
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
 
@@ -105,4 +108,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-04--03-Apr-2018</a>
+05--27-Apr-2018</a>

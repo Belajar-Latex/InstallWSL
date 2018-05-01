@@ -15,7 +15,10 @@
   Pembatalan **INSTALL** ditengah jalan dapat berakibat masalah pada penginstallan berikutnya, 
   karena sisa-sisa penginstallan sebelumnya!
 
-* WSL hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas.
+* WSL hanya dapat diaktifkan pada Windows 10 versi 1607 (2016) keatas. 
+  Informasi versi tersebut didapatkan dengan mencari "About Your PC" (Setting->System->About).
+
+<img src="pictures/wslp10.png" width="800">
 
 Pengaktifan WSL dilakukan melalui PowerShell (admin) dengan mengetikkan:
 
@@ -149,4 +152,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-05--27-Apr-2018</a>
+06--01-Mei-2018</a>

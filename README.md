@@ -89,9 +89,8 @@ OK di-install.
 
 <img src="pictures/wslp06.png" width="800">
 
-<img src="pictures/wslp08.png" width="800">
-
-<img src="pictures/wslp09.png" width="800">
+Langkah terakhir ialah menginstall paket yang terkait dengan LaTeX.
+**AWAS**, ukuran total lebih dari 1 GigaByte!
 
 ```BASH
 DEBPKG="
@@ -136,9 +135,9 @@ xzdec
 apt-get install $DEBPKG
 ```
 
-<!---
-https://docs.microsoft.com/en-us/windows/wsl/install-win10
--->
+<img src="pictures/wslp08.png" width="800">
+
+<img src="pictures/wslp09.png" width="800">
 
 ## DISKLAIMER
 

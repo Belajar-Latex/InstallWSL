@@ -89,7 +89,7 @@ OK di-install.
 
 <img src="pictures/wslp06.png" width="800">
 
-Langkah terakhir ialah menginstall paket yang terkait dengan LaTeX.
+Langkah terakhir ialah menginstall paket (sebagai superuser) yang terkait dengan LaTeX.
 **AWAS**, ukuran total lebih dari 1 GigaByte!
 
 ```BASH

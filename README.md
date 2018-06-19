@@ -76,8 +76,9 @@ sudo su -
 
 ```bash
 apt-get update
-apt-get dist-upgrade
-apt-get autoremove
+apt-get dist-upgrade -y
+apt-get autoremove -y
+apt-get autoclean -y
 
 ```
 
@@ -149,4 +150,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-06--01-Mei-2018</a>
+07--19-Jun-2018</a>

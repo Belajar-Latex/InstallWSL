@@ -11,7 +11,7 @@
  lxrun /uninstall /full
  ```
 
-* Dewasa ini, versi terstabil Microsoft Store ialah Ubuntu 16.04. Versi selanjutnya yang mulai stabil ialah Ubuntu 18.04. 
+* Dewasa ini, versi terstabil Microsoft Store ialah Ubuntu 16.04 atau versi Ubuntu 18.04 yang mulai stabil. 
   Versi Ubuntu lama yang tanpa imbuhan 16.04 atau 18.04, sebaiknya tidak lagi digunakan.
 
 * Penginstallan WSL memerlukan data Internet beberapa ratus Mega Bytes!

@@ -4,7 +4,7 @@
 
 **AWAS!**
 
-* WSL berkembang sangat cepat, sehingga mungkin anda masih menggunakan versi lama.
+* WSL (Windows Subsystem For L*) berkembang sangat cepat, sehingga mungkin anda masih menggunakan versi lama.
   Bahkan, ada versi yang bukan merupakan bagian dari Microsoft Store App.
   Sebaiknya meng-uninstall versi lama melalui power shell:
  ```PS

@@ -11,7 +11,10 @@
  lxrun /uninstall /full
  ```
 
-* Penginstallan WSL (Windows Subsystem For L*) memerlukan data Internet beberapa ratus Mega Bytes!
+* Gunakan (dari Microsoft Store) Ubuntu 16.04 dan selanjutnya Ubuntu 18.04, jika sudah lebih stabil. 
+  Sebaiknya, tidak lagi menggunakan versi Ubuntu lama (tanpa imbuhan 16.04 atau 18.04).
+
+* Penginstallan WSL memerlukan data Internet beberapa ratus Mega Bytes!
   Jangan dilakukan jika memiliki kuota data Internet terbatas!
 
 * Jika anda **BUKAN** pakar Windows 10; sebaiknya membuat USER baru di Windows 10 untuk mencoba WSL.

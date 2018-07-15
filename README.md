@@ -4,6 +4,13 @@
 
 **AWAS!**
 
+* WSL berkembang sangat cepat, sehingga mungkin anda masih menggunakan versi lama.
+  Bahkan, ada versi yang bukan merupakan bagian dari Microsoft Store App.
+  Sebaiknya meng-uninstall versi lama melalui power shell:
+ ```PS
+ lxrun /uninstall /full
+ ```
+
 * Penginstallan WSL (Windows Subsystem For L*) memerlukan data Internet beberapa ratus Mega Bytes!
   Jangan dilakukan jika memiliki kuota data Internet terbatas!
 

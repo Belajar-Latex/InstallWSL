@@ -108,6 +108,7 @@ DEBPKG="
 aptitude
 biber
 build-essential
+evince
 fcitx
 fcitx-pinyin
 fonts-hack-otf
@@ -160,4 +161,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-08--15-Jul-2018</a>
+09--11-Aug-2018</a>

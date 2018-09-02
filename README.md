@@ -106,11 +106,15 @@ Langkah terakhir ialah menginstall paket (sebagai superuser) yang terkait dengan
 ```BASH
 DEBPKG="
 aptitude
+bc
 biber
+bison
 build-essential
 evince
+fakeroot
 fcitx
 fcitx-pinyin
+flex
 fonts-hack-otf
 fonts-hack-ttf
 fonts-hack-web
@@ -126,6 +130,9 @@ gnupg
 groff
 guake
 latexmk
+libelf-dev
+libssl-dev
+ncurses-dev
 ntfs-3g
 perl-doc
 rsync
@@ -140,6 +147,7 @@ whiptail
 xfce4
 xfce4-terminal
 xzdec
+xz-utils
 "
 ```
 
@@ -161,4 +169,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-09--11-Aug-2018</a>
+10--02-Sep-2018</a>

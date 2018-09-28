@@ -134,6 +134,7 @@ libelf-dev
 libssl-dev
 ncurses-dev
 ntfs-3g
+pdftk
 perl-doc
 rsync
 texlive-fonts-recommended
@@ -169,4 +170,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-11--23-Sep-2018</a>
+12--28-Sep-2018</a>

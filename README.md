@@ -124,6 +124,7 @@ fonts-noto-hinted
 fonts-noto-mono
 fonts-noto-unhinted
 gawk
+gcc-doc
 git
 gnome-terminal
 gnupg
@@ -170,4 +171,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-12--28-Sep-2018</a>
+13--09-Oct-2018</a>

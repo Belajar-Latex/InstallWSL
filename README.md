@@ -138,6 +138,7 @@ ntfs-3g
 pdftk
 perl-doc
 rsync
+sysstat
 texlive-fonts-recommended
 texlive-latex-base
 texlive-latex-extra
@@ -171,4 +172,4 @@ Mohon kiranya memberikan tanggapan, terutama jika memiliki solusi alternatif.
 Semoga ini bermanfaat di masa mendatang, saat sudah lupa cara menyelesaikan masalah trivia ini.
 
 <a href="http://rahmatm.samik-ibrahim.vlsm.org">Rahmat M. Samik-Ibrahim, revisi 
-13--09-Oct-2018</a>
+14--16-Nov-2018</a>

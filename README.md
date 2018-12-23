@@ -106,10 +106,13 @@ Langkah terakhir ialah menginstall paket (sebagai superuser) yang terkait dengan
 ```BASH
 DEBPKG="
 aptitude
+automake
+autoconf
 bc
 biber
 bison
 build-essential
+curl
 evince
 fakeroot
 fcitx
@@ -132,12 +135,21 @@ groff
 guake
 latexmk
 libelf-dev
+libffi-dev
+libgdbm-dev
+libgmp-dev
+libncurses5-dev
+libreadline6-dev
+libsqlite3-dev
 libssl-dev
+libtool
+libyaml-dev
 ncurses-dev
 ntfs-3g
 pdftk
 perl-doc
 rsync
+sqlite3
 sysstat
 texlive-fonts-recommended
 texlive-latex-base
@@ -151,6 +163,7 @@ xfce4
 xfce4-terminal
 xzdec
 xz-utils
+zlib1g-dev
 "
 ```
 

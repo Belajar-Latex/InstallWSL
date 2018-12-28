@@ -85,6 +85,7 @@ sudo su -
 (menjadi superuser)
 
 ```bash
+add-apt-repository ppa:malteworld/ppa
 apt-get update
 apt-get dist-upgrade -y
 apt-get autoremove -y
